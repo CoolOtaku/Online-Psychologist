@@ -1,6 +1,6 @@
 # "Онлайн Психолог"
 
-<p align="center"><img height="128" src="images/logo.png" /></p>
+<p align="center"><img height="128" src="img/logo.png" /></p>
 
 ## EN
 
