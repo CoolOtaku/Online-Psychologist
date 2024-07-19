@@ -32,12 +32,14 @@ The project visualizes the work of a business card website with publications on 
 <b>EN:</b>
 - Using Bootstrap (front-end framework)
 - Using a third-party template for site layout (built on Bootstrap)
+- Data storage in files in JSON format (without using the API)
 - Using embedded YouTube videos
 - Navigation on the site
 
 <b>UA:</b>
 - Використання Bootstrap (front-end framework)
 - Використання стороннього шаблону для макета сайту (на основі Bootstrap)
+- Зберігання даних у файлах у форматі JSON (без використання API)
 - Використання вбудованих відео YouTube
 - Навігація по сайту
 #
