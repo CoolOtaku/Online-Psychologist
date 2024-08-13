@@ -1,5 +1,5 @@
 <p align="center"><img height="128" src="img/logo.png"/></p>
-<h1 align="center">"Онлайн Психолог"</h1>
+<h1 align="center">Онлайн Психолог</h1>
 
 ## Description
 <b>EN:</b>
@@ -28,16 +28,18 @@ The project visualizes the work of a business card website with publications on 
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site layout (built on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site layout (built on [**Bootstrap**](https://getbootstrap.com))
 - Data storage in files in **JSON** format (without using the **API**)
+- Using the library [**jQuery**](https://jquery.com)
 - Using embedded **YouTube** videos
 - Navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі [**Bootstrap**](https://getbootstrap.com))
 - Зберігання даних у файлах у форматі **JSON** (без використання **API**)
+- Використання бібліотеки [**jQuery**](https://jquery.com)
 - Використання вбудованих відео **YouTube**
 - Навігація по сайту
 
